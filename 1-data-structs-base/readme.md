@@ -42,27 +42,27 @@
 
 ## 抽象数据类型的表示和实现
 
-![image-20241112194227881](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241112194227881.png)
+![image-20241112194227881](https://github.com/1YaoWei0/The-Way-to-The-Lord/blob/main/Images/image-20241112194227881.png)
 
-![image-20241112194453772](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241112194453772.png)
+![image-20241112194453772](https://github.com/1YaoWei0/The-Way-to-The-Lord/blob/main/Images/image-20241112194453772.png)
 
-![image-20241112194620173](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241112194620173.png)
+![image-20241112194620173](https://github.com/1YaoWei0/The-Way-to-The-Lord/blob/main/Images/image-20241112194620173.png)
 
-![image-20241112194655157](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241112194655157.png)
+![image-20241112194655157](https://github.com/1YaoWei0/The-Way-to-The-Lord/blob/main/Images/image-20241112194655157.png)
 
 ## 算法与算法分析
 
 
 
-![image-20241112195450897](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241112195450897.png)
+![image-20241112195450897](https://github.com/1YaoWei0/The-Way-to-The-Lord/blob/main/Images/image-20241112195450897.png)
 
 ## 算法的定义
 
-![image-20241112195533900](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241112195533900.png)
+![image-20241112195533900](https://github.com/1YaoWei0/The-Way-to-The-Lord/blob/main/Images/image-20241112195533900.png)
 
 ## 算法与程序
 
-![image-20241112195837771](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241112195837771.png)
+![image-20241112195837771](https://github.com/1YaoWei0/The-Way-to-The-Lord/blob/main/Images/image-20241112195837771.png)
 
 > 程序 = 数据结构 + 算法
 
@@ -70,21 +70,21 @@
 
 > 算法特性：一个算法必须具备五大特性
 
-![image-20241112200111644](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241112200111644.png)
+![image-20241112200111644](https://github.com/1YaoWei0/The-Way-to-The-Lord/blob/main/Images/image-20241112200111644.png)
 
 > 算法设计的要求
 
 - 正确性
 
-![image-20241112200153116](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241112200153116.png)
+![image-20241112200153116](https://github.com/1YaoWei0/The-Way-to-The-Lord/blob/main/Images/image-20241112200153116.png)
 
 - 可读性
 
-![image-20241112200327862](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241112200327862.png)
+![image-20241112200327862](https://github.com/1YaoWei0/The-Way-to-The-Lord/blob/main/Images/image-20241112200327862.png)
 
 - 健壮性（Robustness）**鲁棒性**
 
-![image-20241112200438511](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241112200438511.png)
+![image-20241112200438511](https://github.com/1YaoWei0/The-Way-to-The-Lord/blob/main/Images/image-20241112200438511.png)
 
 - 高效性
 
@@ -92,24 +92,24 @@
 
 > 如何评价一个算法的好算法？
 
-![image-20241112200802209](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241112200802209.png)
+![image-20241112200802209](https://github.com/1YaoWei0/The-Way-to-The-Lord/blob/main/Images/image-20241112200802209.png)
 
 > 时间效率与空间效率有时候是矛盾的
 
 ## 算法时间效率
 
-![image-20241112200944526](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241112200944526.png)
+![image-20241112200944526](https://github.com/1YaoWei0/The-Way-to-The-Lord/blob/main/Images/image-20241112200944526.png)
 
 - 事后统计
 - 事前分析
 
-![image-20241112201137230](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241112201137230.png)
+![image-20241112201137230](https://github.com/1YaoWei0/The-Way-to-The-Lord/blob/main/Images/image-20241112201137230.png)
 
 > 算法运行时间 = 一个简单操作所需的时间 * 简单操作次数
 
-![image-20241112201239752](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241112201239752.png)
+![image-20241112201239752](https://github.com/1YaoWei0/The-Way-to-The-Lord/blob/main/Images/image-20241112201239752.png)
 
-![image-20241112201426372](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241112201426372.png)
+![image-20241112201426372](https://github.com/1YaoWei0/The-Way-to-The-Lord/blob/main/Images/image-20241112201426372.png)
 
 > 所以最终 => **算法运行时间** = **每条语句频度**
 
@@ -119,13 +119,13 @@
 
 > n 问题规模，表示要处理的数据量
 
-![image-20241112202724595](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241112202724595.png)
+![image-20241112202724595](https://github.com/1YaoWei0/The-Way-to-The-Lord/blob/main/Images/image-20241112202724595.png)
 
-![image-20241112202816831](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241112202816831.png)
+![image-20241112202816831](https://github.com/1YaoWei0/The-Way-to-The-Lord/blob/main/Images/image-20241112202816831.png)
 
 ## 算法时间复杂度
 
-![image-20241112203426824](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241112203426824.png)
+![image-20241112203426824](https://github.com/1YaoWei0/The-Way-to-The-Lord/blob/main/Images/image-20241112203426824.png)
 
 ## 渐近空间复杂度
 
@@ -138,7 +138,7 @@
 
 抽象数据类型 = 数据的逻辑结构 + 抽象运算（运算的功能描述）
 
-![image-20241112204204071](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241112204204071.png)
+![image-20241112204204071](https://github.com/1YaoWei0/The-Way-to-The-Lord/blob/main/Images/image-20241112204204071.png)
 
 
 
